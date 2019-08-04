@@ -2805,6 +2805,23 @@ KitBattle+kitbattle.unblockcmd+Allows the player to execute other commands while
 KitBattle+kitbattle.vip+Gives double coins and exp!
 KitPreview+previewkit+An unknown description
 KitPreview+previewkit.use+View a specific kit.+/previewkit
+KP-PVP+kitpvp.*+Full acess to all KP-PVP commands and features.
+KP-PVP+kitpvp.staffchat+allow to use kitpvp staffchat.+/ksc,/kitsc
+KP-PVP+kitpvp.skit+Provides acess to skit command.+/skit
+KP-PVP+kitpvp.kit.*+Provides acess to all KP-PVP kits.
+KP-PVP+kitpvp.unblockedcmds+Allows blocked cmds in kitpvp to be used.
+KP-PVP+kitpvp.createsigns+Allows to create kitpvp signs.
+KP-PVP+kitpvp.kitclear+Allows to reset your kit via command.+/kitclear,kp clear
+KP-PVP+kitpvp.build+Allows to build while in kitpvp.
+KP-PVP+kitpvp.stats.see.other+Allow to see other player stats.+/stats,/kpstats
+KP-PVP+kitpvp.kpkickall+Allow to use kpkickall command.+/kpkickall
+KP-PVP+kitpvp.adminmode+Allow to use adminmode+/adminmode
+KP-PVP+kitpvp.coins+Allow to manage players coins.+/givecoins,/removecoins
+KP-PVP+kitpvp.givekills+Allows to add/reremove kills from someone+/kpkills
+KP-PVP+kitpvp.setspawn+Allows to set kitpvp spawn.+/kpsetspawn,/kpsetdeathspawn
+KP-PVP+kitpvp.set1v1+Allows to set kitpvp 1v1.+/set1v1
+KP-PVP+kitpvp.kitreload+Allows to reload the plugin config.+/kp reload,/kitreload
+KP-PVP+kitpvp.admin+Provides acess to verify plugin updates.+/kp update
 LagMeter+lagmeter.*+Full Access to all LagMeter Commands+/lag,/mem,/lagmem,/lm,/uptime,/ping,/Iping
 LagMeter+lagmeter.command.lag+Gives access to the /lag command+/lag
 LagMeter+lagmeter.command.lagmem+Gives access to the combination /lagmem command+/lagmem,/lm
